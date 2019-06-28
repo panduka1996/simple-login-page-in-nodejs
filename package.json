@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "panduka wijekoon",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1",
+    "express-session": "^1.16.1",
+    "mysql": "^2.17.1",
+    "pug": "^2.0.3",
+    "util.promisify": "^1.0.0"
+  }
+}
